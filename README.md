@@ -13,6 +13,6 @@ Data Visualization of the predicted results, and comparing many visualization di
 
 ### Challenges faced
 
- I faces some challenges in subsetting data at certain Points
+ I faced some challenges in subsetting data at certain Points
 
 
